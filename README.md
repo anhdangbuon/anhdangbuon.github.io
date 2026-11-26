@@ -1,1 +1,6 @@
-Trang hồ sơ và dự án cá nhân
+# anhdangbuon.github.io
+
+Trang hồ sơ và thông tin chính thức của **Trần Thanh Đặng** (*Anh Đang Buồn* / `anhdangbuon`).
+
+- **Truy cập trực tiếp:** https://anhdangbuon.github.io
+- **GitHub:** https://github.com/anhdangbuon
